@@ -4,7 +4,7 @@ chardet==3.0.4
 Django==3.0.3
 django-email-utils==0.1.1
 django-rest-email-auth==2.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 email-hunter-python==1.1.0
 idna==2.9
