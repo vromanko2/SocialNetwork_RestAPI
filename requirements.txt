@@ -9,7 +9,7 @@ djangorestframework-jwt==1.11.0
 email-hunter-python==1.1.0
 idna==2.9
 psycopg2==2.8.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2019.3
 requests==2.23.0
 sqlparse==0.3.0
